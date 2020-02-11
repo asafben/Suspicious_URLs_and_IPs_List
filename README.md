@@ -8,4 +8,4 @@ It gathers its information from constantly updating, publicly available, reposit
 Each '.py' under '/feeds' responsible for data mining of a different publicly available source.  
 For each feed there is a classification of: list type (domain / IP) and threat type (malware, CnC, etc..).  
 
-The project is based on code from [here](https://github.com/stamparm/maltrail).
+The lists used are avalible [here](https://github.com/stamparm/maltrail).
